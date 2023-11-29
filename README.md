@@ -1,0 +1,2 @@
+# packagescan
+vscode directory
